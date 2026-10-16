@@ -1,0 +1,15 @@
+import React from "react";
+
+function App() {
+  return (
+    <div>
+      <h1>Hello, World! 👋</h1>
+      <p>Welcome to my React website.</p>
+      <button onClick={() => alert("Welcome!")}>
+        Click Me
+      </button>
+    </div>
+  );
+}
+
+export default App;
