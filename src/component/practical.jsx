@@ -8,6 +8,9 @@ function App() {
       <button onClick={() => alert("Welcome!")}>
         Click Me
       </button>
+      <button>
+        Fuck Stanley2 (The black one)
+      </button>
     </div>
   );
 }
